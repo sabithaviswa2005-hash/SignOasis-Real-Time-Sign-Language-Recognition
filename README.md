@@ -71,3 +71,27 @@ LSTM (Long Short-Term Memory) was selected because sign language recognition inv
 - Real-time gesture recognition
 - Gesture-to-text conversion
 - Gesture-to-speech conversion
+
+# Project Goals 
+- Improve accessibility through assistive technology
+- Enable independent communication
+- Create an interactive learning experience
+- Build a scalable real-time recognition system 
+
+# Results 
+- Successful real-time gesture recognition
+- Improved feature extraction using MediaPipe landmarks
+- Real-time text and speech generation
+- Tested under multiple lighting and gesture conditions
+
+# Future Enhancements 
+- Sentence-level recognition
+- Multilingual sign language support
+- Mobile application deployment
+- Transformer-based gesture recognition
+- AI chatbot integration
+
+# Installation 
+```bash git clone https://github.com/yourusername/Signoasis.git cd Signoasis
+pip install -r requirements.txt
+python app.py
