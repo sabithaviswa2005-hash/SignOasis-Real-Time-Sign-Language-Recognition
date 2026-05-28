@@ -91,6 +91,16 @@ LSTM (Long Short-Term Memory) was selected because sign language recognition inv
 - Transformer-based gesture recognition
 - AI chatbot integration
 
+# Author
+
+Sabitha V  
+MBA (Business Analysis Major | HR Minor)  
+B.Sc Computer Science  
+
+Sanjana B
+M.Sc AI & ML
+B.Sc Computer Science  
+
 # Installation 
 ```bash git clone https://github.com/yourusername/Signoasis.git cd Signoasis
 pip install -r requirements.txt
