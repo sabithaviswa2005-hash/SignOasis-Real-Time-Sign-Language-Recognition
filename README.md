@@ -97,8 +97,8 @@ Sabitha V
 MBA (Business Analysis Major | HR Minor)  
 B.Sc Computer Science  
 
-Sanjana B
-M.Sc AI & ML
+Sanjana B  
+M.Sc AI & ML  
 B.Sc Computer Science  
 
 # Installation 
