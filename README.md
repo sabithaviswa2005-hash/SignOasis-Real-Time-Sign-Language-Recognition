@@ -93,11 +93,11 @@ LSTM (Long Short-Term Memory) was selected because sign language recognition inv
 
 # Author
 
-Sabitha V  
+#Sabitha V  
 MBA (Business Analysis Major | HR Minor)  
 B.Sc Computer Science  
 
-Sanjana B  
+#Sanjana B  
 M.Sc AI & ML  
 B.Sc Computer Science  
 
