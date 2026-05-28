@@ -22,3 +22,52 @@ Communication barriers between hearing-impaired individuals and non-signers crea
 - Voice-assisted communication
 - User-friendly interface
 - Inclusive communication support
+
+# Tech Stack 
+## Frontend 
+- HTML
+- CSS
+- JavaScript
+## Backend 
+- Python
+- PHP
+## Machine Learning & Computer Vision 
+- TensorFlow
+- LSTM
+- MediaPipe
+- OpenCV
+- NumPy
+- Pandas
+## Database 
+- MySQL
+## Development Tools 
+- Jupyter Notebook
+- Visual Studio Code
+- Git & GitHub
+
+# System Workflow 
+1. Webcam captures live gesture frames
+2. MediaPipe extracts face, hand, and body landmarks
+3. Keypoints are converted into NumPy arrays
+4. LSTM model processes temporal gesture sequences 
+5. Model predicts the corresponding sign
+6. Output is displayed as text and speech
+
+# Why LSTM?
+LSTM (Long Short-Term Memory) was selected because sign language recognition involves sequential movement patterns over time.
+## Advantages of LSTM 
+- Handles long-term dependencies
+- Avoids vanishing gradient issues
+- Performs well on sequential gesture recognition
+- Maintains contextual understanding across frames
+
+# Modules
+## 1. Learning Module Provides users with:
+- Tutorials
+- Interactive lessons
+- Quizzes
+- Progress monitoring
+## 2. Interpreter Module Provides: 
+- Real-time gesture recognition
+- Gesture-to-text conversion
+- Gesture-to-speech conversion
